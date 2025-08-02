@@ -1,8 +1,18 @@
-@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pathway+Extreme:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap");
+
+body {
+  font-family: "Pathway Extreme", sans-serif;
+  * {
+    box-sizing: border-box;
+  }
+}
+
+img {
+  max-width: 100%;
+}
 
 :where(h1, h2, h3, h4, h5, h6) {
-  font-family: "Abel", sans-serif;
-  margin-top: 0;
+  margin: 0;
 }
 
 :where(section h1, h2) {
