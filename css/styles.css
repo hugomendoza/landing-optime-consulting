@@ -1,0 +1,29 @@
+@import "./base/base.css";
+
+.bg-gradient-section {
+  background: linear-gradient(135deg, #6f42c1 0%, #0d6efd 100%);
+}
+.bg-gradient-hero {
+  background: linear-gradient(135deg, #6f42c1 0%, #0d6efd 100%);
+}
+.bg-gradient-contact {
+  background: linear-gradient(135deg, #0d6efd 0%, #6f42c1 100%);
+}
+.btn-accent {
+  background: #0d6efd;
+  color: #fff;
+  border: none;
+}
+.btn-accent:hover {
+  background: #0b5ed7;
+  color: #fff;
+}
+.text-white-80 {
+  color: rgba(255, 255, 255, 0.8);
+}
+.text-white-90 {
+  color: rgba(255, 255, 255, 0.9);
+}
+.text-white-60 {
+  color: rgba(255, 255, 255, 0.6);
+}

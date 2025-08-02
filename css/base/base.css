@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+:where(h1, h2, h3, h4, h5, h6) {
+  font-family: "Abel", sans-serif;
+  margin-top: 0;
+}
+
+:where(section h1, h2) {
+  color: red;
+}
