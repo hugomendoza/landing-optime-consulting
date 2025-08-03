@@ -1,6 +1,9 @@
 @import "./base/root.css";
 @import "./base/base.css";
 
+@import "./components/hero.css";
+@import "./components/button.css";
+
 .bg-gradient-section {
   background: linear-gradient(135deg, #6f42c1 0%, #0d6efd 100%);
 }
