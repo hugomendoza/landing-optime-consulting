@@ -1,0 +1,17 @@
+.icon-card {
+  figure {
+    width: 7rem;
+    height: 7rem;
+    display: grid;
+    place-items: center;
+  }
+
+  img {
+    width: 3.5rem;
+  }
+
+  p {
+    width: 70%;
+    margin: 0 auto;
+  }
+}
