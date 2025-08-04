@@ -9,4 +9,9 @@
   border-radius: 10rem;
   font-size: 0.85rem;
   color: white;
+
+  &[class*="--link"] {
+    background: transparent;
+    border: solid 1px white;
+  }
 }
