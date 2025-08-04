@@ -14,4 +14,13 @@
     background: transparent;
     border: solid 1px white;
   }
+
+  &[class*="--close-modal"] {
+    background: transparent;
+    border: none;
+    padding: 0;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+  }
 }
